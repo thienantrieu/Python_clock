@@ -2,6 +2,8 @@
 
 Clock animation done on Python. Same implementation as my MATLAB clock animation, plus a couple of themed variations built for fun.
 
+![Clock animation demo](images/clock_demo.gif)
+
 ## Files
 
 - **`clock_animation.py`** — The base analog clock animation, ported from my original MATLAB implementation. Displays hour, minute, and second hands updating in real time.
