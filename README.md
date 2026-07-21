@@ -2,7 +2,7 @@
 
 Clock animation done on Python. Same implementation as my MATLAB clock animation, plus a couple of themed variations built for fun.
 
-![Clock animation demo](images/clock_demo.gif)
+![Clock animation demo](images/clock_animation.gif)
 
 ## Files
 
